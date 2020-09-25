@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hola, soy Jonathan Jacobo.
 
-<!--
-**JacoboRosas/JacoboRosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante del **Instituto Tecnológico de Tijuana** y actualmente estoy estudiando una carrera en **Ingenieria en Sistemas Computacionales** 📚 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Actualmente estoy trabajando en proyectos personales
+- 🌱 Actualmente estoy aprendiendo:
+   - **C#**
+   - **Unity**
+   - **Github**
+   - **PostgreSQL**
+- 🤔 Estoy buscando ayuda con 
+- 💬 Preguntame sobre 
+- 🗣️ Puedo hablar español e inglés
+- ⚡ Fun fact: me encanta leer manga, y mi favorito es One Piece.
 -->
