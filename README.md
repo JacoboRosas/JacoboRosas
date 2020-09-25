@@ -19,7 +19,7 @@ Soy un estudiante del **Instituto Tecnológico de Tijuana** y actualmente estoy 
 | Hora | Lunes | Martes | Miercoles | Jueves | Viernes |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 9:00 AM | Princ. Elect. Y Ap. Dig. | Princ. Elect. Y Ap. Dig. | Princ. Elect. Y Ap. Dig. | Princ. Elect. Y Ap. Dig. | Princ. Elect. Y Ap. Dig. |
-| 10:00 AM |  |  |  |  |  |
+| 10:00 AM |  |  |  |  |  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |
 | 11:00 AM |  |  |  |  |  |
 | 12:00 PM |  |  |  |  |  |
 | 13:00 PM | Taller de Base de Datos | Taller de Base de Datos | Taller de Base de Datos | Taller de Base de Datos |  |
