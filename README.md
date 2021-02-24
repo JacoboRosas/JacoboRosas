@@ -8,7 +8,6 @@ Soy un estudiante del **Instituto Tecnológico de Tijuana** y actualmente estoy 
    - **Unity**
    - **Github**
    - **PostgreSQL**
-- 🤔 Estoy buscando ayuda con mis caidas de internet.
 - 💬 Preguntame sobre mis actividades favoritas.
 - 🗣️ Puedo hablar español e inglés.
 - ⚡ Fun fact: me encanta leer manga, y mi manga favorito es One Piece.
